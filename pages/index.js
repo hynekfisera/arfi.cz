@@ -6,6 +6,8 @@ import Header from "../components/Header";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 
+import youtubeScreen from "../public/assets/youtubeScreen.png";
+
 export default function Home() {
   return (
     <>
@@ -16,9 +18,20 @@ export default function Home() {
       <Header darkmode={true} />
       <main className="index">
         <div className="container">
+          <section className="intro">
+            <div className="row">
+              <div className="col-md-6">
+                <h2>Zdravím, já jsem Arfi</h2>
+                <h1>Natáčím ty nejrychlejší návody na weby, hry a servery.</h1>
+              </div>
+              <div className="col-md-6">
+                <Image src={youtubeScreen} alt="YouTube channel screen" />
+              </div>
+            </div>
+          </section>
           <section className="discord">
             <div>
-              <span>Buď součástí komunity</span>
+              <span>Staň se součástí komunity</span>
               <p>Na mém Discord serveru najdeš pomoc k videím, upozornění na streamy a videa i místnosti na chat</p>
             </div>
             <a href="https://discord.gg/2Fs4pkpCcG" target="_blank" rel="noreferrer noopener" className="btn btn-discord">

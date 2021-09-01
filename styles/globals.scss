@@ -108,6 +108,30 @@ main.index {
   background: $darkmode-background;
   height: 100vh;
 
+  section.intro {
+    padding: 3rem;
+    color: $darkmode-text;
+
+    .row div {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      h2 {
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+        font-size: 1.75rem;
+        font-weight: 300;
+      }
+
+      h1 {
+        font-size: 2.75rem;
+        font-weight: 800;
+        margin-bottom: 1rem;
+      }
+    }
+  }
+
   section.discord {
     border-radius: 2rem;
     padding: 3rem;
