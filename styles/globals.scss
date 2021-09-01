@@ -104,9 +104,52 @@ header.dark {
   color: $darkmode-text;
 }
 
+footer {
+  padding: 3rem 0;
+
+  span {
+    display: block;
+    margin-top: 1.5rem;
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+  ul:not(.social) {
+    list-style: none;
+
+    li {
+      font-size: 18px;
+      margin-top: 0.75rem;
+
+      a:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  hr {
+    margin: 1.5rem 0;
+    border-top: 1px solid white;
+    opacity: 0.1;
+  }
+
+  p {
+    text-align: center;
+
+    a:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+footer.dark {
+  background: $darkmode-background;
+  color: $darkmode-text;
+}
+
 main.index {
   background: $darkmode-background;
-  height: 100vh;
+  //height: 100vh;
 
   section.intro {
     padding: 3rem;

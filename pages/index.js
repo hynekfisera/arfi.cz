@@ -2,6 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 
 import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDiscord } from "@fortawesome/free-brands-svg-icons";
@@ -31,7 +32,7 @@ export default function Home() {
           </section>
           <section className="discord">
             <div>
-              <span>Staň se součástí komunity</span>
+              <span>Staň se členem komunity</span>
               <p>Na mém Discord serveru najdeš pomoc k videím, upozornění na streamy a videa i místnosti na chat</p>
             </div>
             <a href="https://discord.gg/2Fs4pkpCcG" target="_blank" rel="noreferrer noopener" className="btn btn-discord">
@@ -40,6 +41,7 @@ export default function Home() {
           </section>
         </div>
       </main>
+      <Footer darkmode={true} />
     </>
   );
 }
