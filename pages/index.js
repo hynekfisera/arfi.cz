@@ -10,6 +10,39 @@ import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 import youtubeScreen from "../public/assets/youtubeScreen.png";
 
 export default function Home() {
+  const playlists = [
+    {
+      name: "Jak vytvořit Minecraft server",
+      color: "#02b1e5",
+      link: "https://www.youtube.com/playlist?list=PLKkDvxLpWDX0JDM86Zmr6DYuJJk75Gk6c",
+    },
+    {
+      name: "Jak nastavit TeamSpeak server",
+      color: "#1147c6",
+      link: "https://youtube.com/playlist?list=PLKkDvxLpWDX3tt2K5gDDgcmar49HX_i7c",
+    },
+    {
+      name: "Jak vytvořit web",
+      color: "#69d929",
+      link: "https://www.youtube.com/playlist?list=PLKkDvxLpWDX0uqAfpBZRJDpg0YcbSExWE",
+    },
+    {
+      name: "Jak na Adobe Photoshop",
+      color: "#057cf4",
+      link: "https://www.youtube.com/playlist?list=PLKkDvxLpWDX3Ye0Cet9DoLNb9IFDijmof",
+    },
+    {
+      name: "Jak vytvořit vlastní Minecraft plugin",
+      color: "#8a55a9",
+      link: "https://www.youtube.com/playlist?list=PLKkDvxLpWDX3ZvnuVHh2faaIlSdVE_jPc",
+    },
+    {
+      name: "Úvod do PHP",
+      color: "#f48d05",
+      link: "https://www.youtube.com/playlist?list=PLKkDvxLpWDX30NNTvIrqCq-R43Lf1rtM9",
+    },
+  ];
+
   return (
     <>
       <Head>
@@ -30,6 +63,20 @@ export default function Home() {
               </div>
             </div>
           </section>
+          <section className="playlists">
+            <h2>Série návodů</h2>
+            <span>Co byste se rádi naučili?</span>
+            <div className="playlists">
+              {playlists.map((playlist) => {
+                return (
+                  <a href={playlist.link} key={playlist.name} target="_blank" rel="noreferrer noopener" style={{ backgroundColor: playlist.color }}>
+                    <h3>{playlist.name}</h3>
+                  </a>
+                );
+              })}
+            </div>
+          </section>
+          <hr />
           <section className="discord">
             <div>
               <span>Staň se členem komunity</span>

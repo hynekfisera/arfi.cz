@@ -6,7 +6,7 @@ export default function Footer({ darkmode }) {
     <footer className={darkmode ? "dark" : "light"}>
       <div className="container">
         <div className="row">
-          <div className="col-sm-3 col-6">
+          <div className="col-md-3 col-6">
             <span>Sociální sítě</span>
             <ul>
               <li>
@@ -36,7 +36,7 @@ export default function Footer({ darkmode }) {
               </li>
             </ul>
           </div>
-          <div className="col-sm-3 col-6">
+          <div className="col-md-3 col-6">
             <span>Návody</span>
             <ul>
               <li>
@@ -71,7 +71,7 @@ export default function Footer({ darkmode }) {
               </li>
             </ul>
           </div>
-          <div className="col-sm-3 col-6">
+          <div className="col-md-3 col-6">
             <span>Discord</span>
             <ul>
               <li>
@@ -96,7 +96,7 @@ export default function Footer({ darkmode }) {
               </li>
             </ul>
           </div>
-          <div className="col-sm-3 col-6">
+          <div className="col-md-3 col-6">
             <span>Ostatní</span>
             <ul>
               <li>
