@@ -238,3 +238,78 @@ main.index {
     }
   }
 }
+
+main.markdown-page {
+  .content {
+    padding: 2.5rem 0;
+
+    h1 {
+      display: block;
+      text-align: center;
+      font-size: 2.5rem;
+    }
+
+    h2 {
+      display: block;
+      font-size: 2.25rem;
+      font-weight: 500;
+      margin-bottom: 0.75rem;
+      margin-top: 3rem;
+      text-align: center;
+    }
+
+    h3 {
+      display: block;
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      margin-top: 1.5rem;
+    }
+
+    h4 {
+      display: block;
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    h5 {
+      display: block;
+      font-size: 18px;
+      font-weight: 500;
+      //text-transform: uppercase;
+      margin-bottom: 0.25rem;
+      margin-top: 0.75rem;
+    }
+
+    p,
+    ul {
+      display: block;
+      font-size: 18px;
+      line-height: 1.5;
+      margin-bottom: 1rem;
+      ::marker {
+        color: darkgray;
+      }
+    }
+
+    strong {
+      font-weight: 600;
+    }
+
+    a {
+      color: $primary;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  hr {
+    margin: 1rem 20%;
+    border-top: 1px solid lightgray;
+    opacity: 0.5;
+  }
+}
