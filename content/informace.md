@@ -36,7 +36,7 @@ Kanály pro chat.
 
 ### Kategorie POMOC K VIDEÍM
 
-Kanály do kterých můžete poslat problém, na který jste narazili při postupu podle nějakého z mých videí. Více informací najdete [zde](#pomoc-k-videím)
+Kanály do kterých můžete poslat problém, na který jste narazili při postupu podle nějakého z mých videí. Více informací najdete [zde](#pomoc-k-videím). Tato kategorie **neslouží** pro běžnou komunikaci, od toho je kategorie [LOBBY](#kategorie-lobby).
 
 ## Role
 
