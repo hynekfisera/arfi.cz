@@ -103,4 +103,4 @@ Pokud neřešíte konkrétně něco, co je ve videu, ale stále se problém týk
 
 ## Kontakt
 
-Až na výjimky žádosti o přátelství **nepřijímám**. Na pomoc ohledně videí využijte tento server, na pracovní záležitosti email [hynek@oneflair.co](mailto:hynek@oneflair.co)
+Až na výjimky žádosti o přátelství **nepřijímám**. Na pomoc ohledně videí využijte tento server, na pracovní záležitosti email [hynek@oneflair.co](mailto:hynek@oneflair.co). S případnými dotazy kontaktujte moderátory.
