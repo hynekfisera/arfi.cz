@@ -20,7 +20,7 @@ Do tohoto kanálu se zasílají oznámení o připojení a odpojení uživatelů
 
 ### #role
 
-V tomto kanálu si můžete sami zvolit role. Pro každou "kategorii" rolí je vytvořen embed. Pro přidání role klikněte na reakci která odpovídá danému emotu v popisu embedu. Pro odebrání role svou reakci zrušte.
+V tomto kanálu si můžete sami zvolit role. Pro každou "kategorii" rolí je vytvořena zpráva na kterou lze reagovat. Pro přidání role klikněte na reakci která odpovídá danému emotu v obsahu zprávy. Pro odebrání role svou reakci zrušte.
 
 U některých embedů (konkrétně u embedů Věk a Pohlaví/Pronouns) lze získat pouze jednu z nabízených rolí zároveň. Pokud tedy zareagujete dvakrát tak se první role odebere a "přepíše" se tou druhou. Jinak platí ta samá pravidla jako u ostatních.
 
