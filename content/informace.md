@@ -80,7 +80,7 @@ Pro tvůrce na platformách YouTube a Twitch tu jsou role *@YouTube Creator* a *
 - kvalita zpracování videí (obraz, zvuk, střih)
 - vzhled kanálu (název, popis kanálu, náhledovky)
 
-Jak postupovat pro získání této role:
+Roli lze získat vyplněním [tohoto formuláře](https://forms.gle/tz556vhiS4yY8MnR9)
 
 #### *@Twitch Creator*
 
