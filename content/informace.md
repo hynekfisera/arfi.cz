@@ -90,6 +90,17 @@ Jak postupovat pro získání této role:
 
 ## Pomoc k videím
 
+Jelikož se snažím svou tvorbou hlavně pomáhat tak jsem přesvědčen že to, co ve videích ukazuji, vám samotným bude fungovat. Pokud se dostanete do nějakých problémů, můžete si zde zažádat o pomoc. Pokud se problém přímo týká něčeho ve videu, pomohu vám já nebo jeden z moderátorů.
+
+Pokud neřešíte konkrétně něco, co je ve videu, ale stále se problém týká témata videa, můžete si zde také zažádat o pomoc, ale už není naše povinnost to řešit.
+
+### Než na server zašlete váš problém:
+- **Zkontrolujte ještě jednou vaši práci** - Nejvíce problémů vzniká nechtěným překlepem nebo z nepozornosti, ujistěte se tedy zda je vše (např. kód) stejné jako ve videu.
+- **Nejdříve použijte hlavu** - Nedělám Step-By-Step návody z toho důvodu, že jsem přesvědčený, že pokud si zvládnete najít můj návod, tak také zvládáte alespoň základní práci s počítačem a programy. Pokud ne, asi bych doporučil se to nejdříve naučit. To samé platí když ve videu řeknu že na pochopení návodu potřebujete například umět základy Javy - v tom případě od váš očekávám že se je nejdříve naučíte než od nás budete chtít pomoc s problémem který vznikl kvůli tomu že kód nechápete.
+- **Zkuste najít pomoc na internetu** - Hlavně v oboru programování je naprosto běžné, že se hledá pomoc na internetu. Pokud narazíte na nějaký error, velice pravděpodobně najdete řešení během 10s když ten error zadáte do [googlu](http://www.usethefuckinggoogle.com/). Alespoň trochu se nejdříve pokuste hledat než se obrátíte na nás.
+- **Neoznačujte mě ani moderátory** - Server pravidelně kontrolujeme, pokud zrovna nemáme čas tak se to pingem od vás nezmění.
+- **Mějte pochopení a buďte trpělivý** - Za pomoc, kterou tu poskytujeme, nic nedostáváme, děláme to z dobré vůle. Mějte to tedy prosím na vědomí.
+
 ## Kontakt
 
 Až na výjimky žádosti o přátelství **nepřijímám**. Na pomoc ohledně videí využijte tento server, na pracovní záležitosti email [hynek@oneflair.co](mailto:hynek@oneflair.co)
