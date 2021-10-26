@@ -90,7 +90,7 @@ export default function Footer({ darkmode }) {
                 </Link>
               </li>
               <li>
-                <Link href="/informace#youtuberank">
+                <Link href="/informace#role-pro-tvůrce">
                   <a>YouTube rank</a>
                 </Link>
               </li>
