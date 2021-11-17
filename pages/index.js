@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 
-import youtubeScreen from "../public/assets/youtubeScreen.png";
+import youtubeScreen from "../public/assets/youtube.png";
 
 export default function Home() {
   const playlists = [
